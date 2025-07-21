@@ -6,6 +6,6 @@ provider "aws" {
      ami           = var.ami_id
      instance_type = var.instance_type
      tags = {
-       Name = "TF-Cloud-Demo"
+       Name = "TF-Clud-Demo"
      }
    }
